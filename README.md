@@ -13,7 +13,7 @@ Welcome to the new *SyGRID dataset repository, designed for industrial applicati
 - [Contact](#contact)
 
 ## Example
-![Image 1](rgb/010048.png)
+![Image 1](rgb/010012.png)
 
 
 
@@ -96,6 +96,11 @@ sygrid-dataset/#
 - 2D Detection and Instance Segmentation with YOLOv8
 - Depth Estimation with Depth Anything
 - 6D Pose Estimation with GDR-net
+
+## Additional Information
+
+We provided a file where additional information on the data generation procedure are available.
+[supplementary](Sygrid_supplementary.pdf)
 
 ## License
 
