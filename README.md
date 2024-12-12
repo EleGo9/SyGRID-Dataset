@@ -13,7 +13,7 @@ Welcome to the new *SyGRID dataset repository, designed for industrial applicati
 - [Contact](#contact)
 
 ## Example
-![Image 1](rgb/006000.png)
+![Image 1](rgb/010048.png)
 
 
 
