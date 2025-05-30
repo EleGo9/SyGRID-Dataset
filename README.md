@@ -104,16 +104,10 @@ We provided a file where additional information on the data generation procedure
 
 ## License
 
-SyGRID © 2024 by Nicola Capodieci, Davide Sapienza, Elena Govi, Luca De Dominicis, Marko Bertogna is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
+SyGRID © 2024 is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 For commercial use: write to one of the contacts.
 
 ## Citation
 
 ## Contact 
-
-elena.govi@unimore.it
-
-nicola.capodieci@unimore.it
-
-davide.sapienza@unimore.it
