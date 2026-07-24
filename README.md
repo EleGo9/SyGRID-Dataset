@@ -1,5 +1,6 @@
 # Advancing Industrial Vision Research with SyGRID: Synthetically Generated Realistic Industrial Dataset
 Welcome to the new *SyGRID dataset repository, designed for industrial applications in computer vision and robotics. [Intro Video](videos/video_sygrid_intro.mp4)
+THIS IS ONLY A PORTION OF THE DATASET. THE ENTIRE DATASET WILL BE AVAILABLE AFTER PUBLICATION
 
 ## Table of Contents
 
